@@ -1,0 +1,16 @@
+.venv/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
+
+./nuvomemo-backend-firebase-adminsdk-4rwbr-1d4250d24a.json
